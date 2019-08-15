@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: 'DESKTOP-0F3Q46A'
+pool: 'Default'
 
 steps:
 - script: echo Hello, world!
